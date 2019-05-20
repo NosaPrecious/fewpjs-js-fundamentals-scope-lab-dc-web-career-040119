@@ -13,8 +13,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  return n + two
-
-  // Feel free to move things around!
+   // Feel free to move things around!
   let two = 2
+  return n + two
 }
